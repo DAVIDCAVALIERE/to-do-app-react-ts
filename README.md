@@ -1,7 +1,7 @@
 
 ## Lista de tareas en React con TypeScript
 
-Link al curso completo en Youtube:
+Link a la app:
 [APP](https://react-ts-to-do-app.netlify.app/)
 
 ### Paso 1: Configuración del proyecto
